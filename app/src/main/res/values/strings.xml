@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">notification download use progress bar</string>
+    <string name="btn_download">Download file</string>
+    <string name="permission_denied">Quyen thong bao bi tu choi</string>
+</resources>
